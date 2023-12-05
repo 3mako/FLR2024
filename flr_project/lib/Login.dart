@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:foodloss_application/Home.dart';
+import 'package:flr_project/Home.dart';
 
 void main() {
   runApp(LoginApp());

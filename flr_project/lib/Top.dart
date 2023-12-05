@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:foodloss_application/Login.dart';
+import 'package:flr_project/Login.dart';
 //import 'package:flutter/NewRegistration.dart';
 
 void main() {
